@@ -1,0 +1,10 @@
+C:\Users\Steven\source\repos\CompareImgaesUI\CompareImgaesUI\bin\Debug\CompareImgaesUI.exe.config
+C:\Users\Steven\source\repos\CompareImgaesUI\CompareImgaesUI\bin\Debug\CompareImgaesUI.exe
+C:\Users\Steven\source\repos\CompareImgaesUI\CompareImgaesUI\bin\Debug\CompareImgaesUI.pdb
+C:\Users\Steven\source\repos\CompareImgaesUI\CompareImgaesUI\obj\Debug\CompareImgaesUI.csprojAssemblyReference.cache
+C:\Users\Steven\source\repos\CompareImgaesUI\CompareImgaesUI\obj\Debug\CompareImgaesUI.Form1.resources
+C:\Users\Steven\source\repos\CompareImgaesUI\CompareImgaesUI\obj\Debug\CompareImgaesUI.Properties.Resources.resources
+C:\Users\Steven\source\repos\CompareImgaesUI\CompareImgaesUI\obj\Debug\CompareImgaesUI.csproj.GenerateResource.cache
+C:\Users\Steven\source\repos\CompareImgaesUI\CompareImgaesUI\obj\Debug\CompareImgaesUI.csproj.CoreCompileInputs.cache
+C:\Users\Steven\source\repos\CompareImgaesUI\CompareImgaesUI\obj\Debug\CompareImgaesUI.exe
+C:\Users\Steven\source\repos\CompareImgaesUI\CompareImgaesUI\obj\Debug\CompareImgaesUI.pdb
